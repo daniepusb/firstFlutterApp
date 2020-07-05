@@ -1,3 +1,3 @@
 # screen_splash branch
 
-Here we will find som good stuff
+Here we will find some good stuff
